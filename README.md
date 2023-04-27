@@ -1,1 +1,1 @@
-A basic test provider to try out releasing and importing
+A basic test provider to try out releasing and importing.
