@@ -1,1 +1,3 @@
-A basic test provider to try out releasing and importing.
+A basic terraform provider that modifies a simple text file.
+
+Used as a test.
